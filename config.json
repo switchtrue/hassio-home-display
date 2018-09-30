@@ -1,6 +1,6 @@
 {
   "name": "Hassio Home Display",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "slug": "home_display",
   "description": "UI for a wall mounted Home Assistant control panel",
   "startup": "system",
@@ -8,9 +8,9 @@
   "options": {},
   "schema": {},
   "url": "https://github.com/switchtrue/hassio-home-display",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:7080]",
-  "hassio_api": true,
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:8000]",
+//  "hassio_api": true,
   "ports": {
-    "8000/tcp": 8000
+    "8000/tcp": 7090
   }
 }

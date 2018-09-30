@@ -1,6 +1,6 @@
 {
   "name": "Hassio Home Display",
-  "version": "dev",
+  "version": "dev-1",
   "slug": "home_display",
   "description": "UI for a wall mounted Home Assistant control panel",
   "url": "https://github.com/switchtrue/hassio-home-display",

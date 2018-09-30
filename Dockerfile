@@ -3,9 +3,7 @@ ARG BUILD_FROM=hassioaddons/base:2.0.0
 FROM ${BUILD_FROM}
 
 # Setup base
-RUN \
-    apk add --no-cache \
-        nginx=1.14.0-r0
+RUN apk add --no-cache nginx=1.14.0
 
 # Copy root filesystem
 COPY rootfs /

@@ -21,7 +21,7 @@ function TickerItem({item}) {
         },
       }]}>
       {(configs) =>
-        <div className="container">
+        <div className="container" style={{width: "100%"}}>
           {configs.map((config) =>
             <div className="item"
                  key={config.key}
@@ -30,7 +30,9 @@ function TickerItem({item}) {
                    transform: `translateY(${config.style.y}px)`,
                    position: "absolute",
                    maxHeight: "2rem",
-                   width: "100%"
+                   width: "100%",
+                   overflow: "hidden",
+                   textOverflow: "ellipsis",
                  }}>
               {config.data.text}
             </div>

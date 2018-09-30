@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="48px" viewBox="0 0 46 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Switch_on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Switch_on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Switch" transform="translate(0.000000, 0.500000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <path d="M8,21.2760417 L8,33.1510417" id="Line-4" stroke-linecap="square"></path>
+            <path d="M9.5,32.1614583 L6.5,32.1614583" id="Line-4" stroke-linecap="square"></path>
+            <rect id="Rectangle" stroke-width="1.5" x="6.75" y="43.3020833" width="31.5" height="3.44791667" rx="1.72395833"></rect>
+            <polyline id="Line" stroke-width="2" stroke-linecap="round" points="14.6978355 0.494791667 9.83814479 0.494791667 0.808037659 19.0309978 2.27372372 20.8310219 43.3267408 20.8310219 44.5371203 18.9636498 35.5077415 0.494791667 19.6973603 0.494791667"></polyline>
+            <path d="M7.5,6.43229167 L37.5,6.43229167" id="Line-2" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M3.5,15.0911458 L42,15.0911458" id="Line-2" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M20.2,21.2760417 L20.2,43.046875" id="Line-3" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M25.25,21.2760417 L25.25,43.046875" id="Line-3" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

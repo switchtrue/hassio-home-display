@@ -1,9 +1,9 @@
-ARG BUILD_FROM=hassioaddons/base:2.0.0
+ARG BUILD_FROM=hassioaddons/base:2.0.1
 # hadolint ignore=DL3006
 FROM ${BUILD_FROM}
 
 # Setup base
-RUN apk add --no-cache nginx=1.14.0
+RUN apk add --no-cache nginx
 
 # Copy root filesystem
 COPY rootfs /

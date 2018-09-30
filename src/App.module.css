@@ -1,0 +1,6 @@
+.GroupContainer {
+  display: flex;
+  margin: 0 2rem;
+  position: relative;
+  overflow-x: scroll;
+}

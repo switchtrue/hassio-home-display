@@ -1,0 +1,30 @@
+.Knob {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.ButtonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.Button {
+  border: none;
+  background: none;
+  outline: none;
+  margin: 0.9rem 0;
+}
+
+.CurrentValue {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.Label {
+  color: rgb(175, 175, 175);
+  font-size: 0.8rem;
+}

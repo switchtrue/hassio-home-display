@@ -1,0 +1,15 @@
+.Switch {
+  composes: Entity from "./Entity.module.css";
+  color: rgb(99, 155, 230);
+}
+
+.On {
+  composes: Switch;
+  composes: EntityOn from "./Entity.module.css";
+  background-color: rgb(99, 155, 230);
+  color: rgb(255, 255, 255);
+}
+
+.FriendlyName {
+  composes: FriendlyName from "./Entity.module.css";
+}

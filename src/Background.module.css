@@ -1,0 +1,50 @@
+.BackgroundImage {
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -999;
+  opacity: 0.1;
+}
+
+.Clear {
+  composes: BackgroundImage;
+  opacity: 0.5;
+}
+
+.Storm {
+  composes: BackgroundImage;
+  opacity: 0.6;
+}
+
+.Rain {
+  composes: BackgroundImage;
+  opacity: 0.6;
+}
+
+.PartlyCloudy {
+  composes: BackgroundImage;
+  opacity: 0.5;
+}
+
+.Cloudy {
+  composes: BackgroundImage;
+  opacity: 0.3;
+}
+
+.Snow {
+  composes: BackgroundImage;
+  opacity: 0.3;
+}
+
+.HeaderImage {
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -99;
+}

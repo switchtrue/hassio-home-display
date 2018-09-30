@@ -1,0 +1,21 @@
+.MediaPlayer{
+  composes: Entity from "./Entity.module.css";
+  color: rgb(145, 227, 171);
+}
+
+.On {
+  composes: MediaPlayer;
+  composes: EntityOn from "./Entity.module.css";
+  background-color: rgb(145, 227, 171);
+  color: rgb(255, 255, 255);
+}
+
+.FriendlyName {
+  composes: FriendlyName from "./Entity.module.css";
+  position: relative;
+}
+
+.FriendlyNameBlended {
+  composes: FriendlyName;
+  mix-blend-mode: difference;
+}

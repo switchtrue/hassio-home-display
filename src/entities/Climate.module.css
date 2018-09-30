@@ -1,0 +1,28 @@
+.Climate {
+  composes: Entity from "./Entity.module.css";
+  color: rgb(113, 196, 250);
+}
+
+.On {
+  composes: Climate;
+  composes: EntityOn from "./Entity.module.css";
+  background-color: rgb(113, 196, 250);
+  color: rgb(255, 255, 255);
+}
+
+.Temperature {
+  font-size: 1.3rem;
+}
+
+.FriendlyName {
+  composes: FriendlyName from "./Entity.module.css";
+}
+
+.ClimateSettings {
+  width: 100%;
+}
+
+.ClimateOptions {
+  margin-top: 3rem;
+  width: 100%;
+}

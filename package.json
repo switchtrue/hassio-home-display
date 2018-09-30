@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "moment": "^2.22.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-dropdown": "^1.6.2",
+    "react-grid-layout": "^0.16.6",
+    "react-modal": "^3.6.1",
+    "react-motion": "^0.5.2",
     "react-scripts": "2.0.0-next.a671462c"
   },
   "scripts": {
@@ -15,14 +20,16 @@
   },
   "browserslist": {
     "development": [
-      "last 2 chrome versions",
-      "last 2 firefox versions",
-      "last 2 edge versions"
+      ">0.25%",
+      "not op_mini all",
+      "ie 11",
+      "iOS 9"
     ],
     "production": [
       ">0.25%",
       "not op_mini all",
-      "ie 11"
+      "ie 11",
+      "iOS 9"
     ]
   }
 }

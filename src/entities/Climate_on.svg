@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="48px" viewBox="0 0 60 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Climate_on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Climate_on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="46.5" cy="30" r="1"></circle>
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="46.5" cy="43" r="1"></circle>
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="52" cy="33.5" r="1"></circle>
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="41" cy="33.5" r="1"></circle>
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="52" cy="39.8" r="1"></circle>
+        <circle id="Oval-3" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" cx="41" cy="39.8" r="1"></circle>
+        <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="3" fill-rule="nonzero" x="1.5" y="1.5" width="57" height="23" rx="8"></rect>
+        <rect id="Rectangle-3" stroke="#FFFFFF" stroke-width="1.5" fill-rule="nonzero" x="8.75" y="6.75" width="11.5" height="5.5" rx="2.75"></rect>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="1.2" fill-rule="nonzero" cx="49.4" cy="9.5" r="3"></circle>
+        <path d="M46,16 L51.5,16" id="Line" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M8,16 L39.5,16" id="Line" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M8,19.25 L16.5,19.25" id="Line" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M25,19.2083333 L51.5,19.2083333" id="Line" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <circle id="Oval-2" stroke="#FFFFFF" fill="#71C4FA" fill-rule="nonzero" cx="21.4" cy="20.4" r="1"></circle>
+        <path d="M46.5,31.5 L46.5,41.5" id="Line-5" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M42.2054069,34.0355339 L50.8656609,39.0355339" id="Line-5" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M50.8656609,34.0355339 L42.2054069,39.0355339" id="Line-5" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M10.386929,29.7244113 C12.3698193,30.5884035 13.3612644,31.9746154 13.3612644,33.883047 C13.3612644,36.9617776 10.386929,38.55946 10.386929,41.6071674 C10.386929,43.4926194 11.3783741,44.8351696 13.3612644,45.6348179" id="Path-2" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></path>
+        <path d="M19,31 C20.9828903,31.8639922 21.9743354,33.2502041 21.9743354,35.1586357 C21.9743354,38.2373663 19,39.8350486 19,42.8827561 C19,44.7682081 19.9914451,46.1107583 21.9743354,46.9104066" id="Path-2" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></path>
+        <path d="M27.7387356,30 C29.7216259,30.8639922 30.713071,32.2502041 30.713071,34.1586357 C30.713071,37.2373663 27.7387356,38.8350486 27.7387356,41.8827561 C27.7387356,43.7682081 28.7301807,45.1107583 30.713071,45.9104066" id="Path-2" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,79 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: rgb(126, 126, 126);
+  /*color: rgb(255, 255, 255);*/
+}
+
+.RowOne {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: calc(2rem + 10px);
+  margin-right: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.RowTwo {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 2rem 1rem calc(2rem + 10px);
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.Separator {
+  margin: 0 0.6rem;
+  color: rgb(155, 156, 156);
+  font-weight: 300;
+}
+
+.InvertedSeparator {
+  composes: Separator;
+  color: rgb(255, 255, 255);
+}
+
+.Date,
+.Time {
+  color: rgb(255, 255, 255);
+}
+
+.WeatherSummary {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.ValuesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.Value {
+  margin-left: 1.5rem;
+}
+
+.ValueLabel {
+  margin-right: 0.5rem;
+}
+
+.EditLayout {
+  position: absolute;
+  right: 2rem;
+  top: 6.5rem;
+  /*bottom: 0;*/
+}
+
+.EditLayout button {
+  background: none;
+  border: none;
+  outline: none;
+  color: rgb(178, 178, 178);
+  font-size: 0.9rem;
+  font-weight: 600;
+}

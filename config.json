@@ -4,7 +4,7 @@
   "slug": "home_display",
   "description": "UI for a wall mounted Home Assistant control panel",
   "url": "https://github.com/switchtrue/hassio-home-display",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:8000]",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:7080]",
   "startup": "system",
   "arch": [
     "aarch64",

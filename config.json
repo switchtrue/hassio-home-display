@@ -1,6 +1,6 @@
 {
   "name": "Hassio Home Display",
-  "version": "dev-1",
+  "version": "dev-2",
   "slug": "home_display",
   "description": "UI for a wall mounted Home Assistant control panel",
   "url": "https://github.com/switchtrue/hassio-home-display",
@@ -18,7 +18,7 @@
     "ssl"
   ],
   "ports": {
-    "7080/tcp": 7080
+    "8000/tcp": 7080
   },
   "options": {
     "log_level": "info",

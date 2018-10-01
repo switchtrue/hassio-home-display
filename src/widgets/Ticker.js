@@ -72,7 +72,7 @@ class Ticker extends Component {
 
   tick = () => {
     this.setState({
-      idx: (++this.state.idx) % this.state.items.length,
+      idx: (this.state.idx + 1) % this.state.items.length,
     });
   };
 
